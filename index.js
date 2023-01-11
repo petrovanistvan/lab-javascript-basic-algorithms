@@ -40,3 +40,5 @@ function compare(hacker1, hacker2) {
 }
 
 console.log(compare(hacker1, hacker2));
+
+//
